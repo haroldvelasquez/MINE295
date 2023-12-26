@@ -3,5 +3,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.7.7=h81c818b_4
+  - python=3.7
   - pandas
