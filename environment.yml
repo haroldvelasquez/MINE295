@@ -7,3 +7,4 @@ dependencies:
   - pip
   - pip:
     - resourcegeo==0.1.7
+    - seaborn==0.12.2
