@@ -5,4 +5,6 @@ channels:
 dependencies:
   - python=3.7.7
   - pandas
+  - pip
+pip:
   - resourcegeo==0.1.7
