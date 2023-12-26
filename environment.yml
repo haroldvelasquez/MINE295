@@ -1,7 +1,7 @@
 name: resourgeo
 channels:
   - conda-forge
-  - nodefaults
+  - defaults
 dependencies:
   - python=3.7.7=h81c818b_4
   - pandas
