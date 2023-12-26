@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-resourcegeo==0.1.7
+#resourcegeo==0.1.7
 #cycler==0.10.0            # via matplotlib
 #kiwisolver==1.2.0         # via matplotlib
 matplotlib==3.4.3
